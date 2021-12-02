@@ -21,5 +21,9 @@ data cleaning step :
 - simplify status
 
 ## cluster algorithm used : 
-- Elbow method
-- Silhoulette method
+- Elbow method <br />
+![elbow-method](https://user-images.githubusercontent.com/41662335/144379977-bf4e9bcd-4a9e-4c47-aad4-c54c03a4f9e5.png)
+
+- Silhoulette method <br />
+![4-center](https://user-images.githubusercontent.com/41662335/144380075-bb7472ba-88cb-49b3-9b0e-2b8d922d8aeb.png)
+![5-center](https://user-images.githubusercontent.com/41662335/144380160-5b12b32f-73c8-48f0-b7c4-471215963703.png)
